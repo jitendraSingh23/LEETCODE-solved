@@ -1,7 +1,7 @@
 ## All the questions are solved in C++
 
 <!-- |   Question No.         | [dfjshbfjbjsbfgs](linkhere) |  difficulty here          | -->
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/jitendra23_?theme=transparent&font=Cardo)
 
 | Question No. | Title                       | Difficulty |
 | ------------ | --------------------------- | ---------- |
@@ -21,3 +21,6 @@
 | 2149            | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) |    Medium        |
 | 2643            | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/) |    Easy        |
 | 48            | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) |    Medium        |
+
+
+
