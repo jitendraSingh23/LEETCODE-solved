@@ -1,6 +1,6 @@
 ## All the questions are solved in C++
 
-<!-- |   Question No.         | [dfjshbfjbjsbfgs](linkhere) |  difficulty here          | -->
+<!-- |   Question No.         | [title here](linkhere) |  difficulty here          | -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jitendra23_?theme=transparent&font=Cardo)
 
@@ -23,3 +23,4 @@
 | 2643         | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)                                                               | Easy       |
 | 48           | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                                                 | Medium     |
 | 9           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                                 | Easy     |
+| 1           | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                 | Easy     |
