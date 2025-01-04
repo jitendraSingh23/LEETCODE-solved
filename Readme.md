@@ -22,6 +22,7 @@
 | 2149         | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)                                         | Medium     |
 | 2643         | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)                                                               | Easy       |
 | 48           | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                                                 | Medium     |
-| 9           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                                 | Easy     |
-| 1           | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                 | Easy     |
-| 12           | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)                                                                                 | Medium     |
+| 9            | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                       | Easy       |
+| 1            | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                           | Easy       |
+| 12           | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)                                                                         | Medium     |
+| 26           | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                   | Easy       |
