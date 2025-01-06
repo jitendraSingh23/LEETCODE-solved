@@ -27,3 +27,4 @@
 | 12           | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)                                                                         | Medium     |
 | 26           | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)                                   | Easy       |
 | 20           | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                                       | Easy       |
+| 35           | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                       | Easy       |
