@@ -30,3 +30,4 @@
 | 35           | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                             | Easy       |
 | 50           | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                                                                                          | Medium     |
 | 58           | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                                                   | Easy       |
+| 118          | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)                                                                        | Easy       |
