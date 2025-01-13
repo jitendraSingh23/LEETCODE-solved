@@ -34,3 +34,4 @@
 | 136          | [Single Number](https://leetcode.com/problems/single-number/description/)                                                                               | Easy       |
 | 224          | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)                                                                         | Hard       |
 | 153          | [Find Minimum in Rotated Sorted](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)                                       | Medium     |
+| 240          | [ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)                                                              | Medium     |
