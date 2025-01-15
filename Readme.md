@@ -36,3 +36,4 @@
 | 153          | [Find Minimum in Rotated Sorted](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)                                       | Medium     |
 | 240          | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)                                                               | Medium     |
 | 189          | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                                 | Medium     |
+| 242          | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                               | Easy       |
