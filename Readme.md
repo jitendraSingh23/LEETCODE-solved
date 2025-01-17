@@ -38,3 +38,4 @@
 | 189          | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                                 | Medium     |
 | 242          | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                               | Easy       |
 | 204          | [Count Primes](https://leetcode.com/problems/count-primes/description/)                                                                                 | Medium     |
+| 306          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                                 | Medium     |
