@@ -38,5 +38,6 @@
 | 189          | [Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                                 | Medium     |
 | 242          | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                               | Easy       |
 | 204          | [Count Primes](https://leetcode.com/problems/count-primes/description/)                                                                                 | Medium     |
-| 306          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                                 | Medium     |
-| 233          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                                 | Hard     |
+| 306          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                           | Medium     |
+| 233          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                           | Hard       |
+| 283          | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                   | Easy       |
