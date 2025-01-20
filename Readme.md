@@ -41,3 +41,4 @@
 | 306          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                           | Medium     |
 | 233          | [Additive Number](https://leetcode.com/problems/additive-number/description/)                                                                           | Hard       |
 | 283          | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                   | Easy       |
+| 338          | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                                                                               | Easy       |
