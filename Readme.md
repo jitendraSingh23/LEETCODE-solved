@@ -43,3 +43,4 @@
 | 283          | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                                                   | Easy       |
 | 338          | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                                                                               | Easy       |
 | 344          | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                                             | Easy       |
+| 357          | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)                                         | Hard       |
