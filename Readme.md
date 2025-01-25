@@ -45,4 +45,5 @@
 | 344          | [Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                                             | Easy       |
 | 357          | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)                                         | Hard       |
 | 396          | [Rotate Function](https://leetcode.com/problems/rotate-function/description/)                                                                           | Medium     |
-| 387          | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                                                                           | Easy     |
+| 387          | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                                     | Easy       |
+| 441          | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)                                                                           | Easy       |
