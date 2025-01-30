@@ -51,3 +51,4 @@
 | 509          | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                                         | Easy       |
 | 565          | [Array Nesting](https://leetcode.com/problems/array-nesting/description/)                                                                               | Medium     |
 | 374          | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                                                 | Easy       |
+| 400          | [Nth Digit](https://leetcode.com/problems/nth-digit/description/)                                                                                       | Medium     |
