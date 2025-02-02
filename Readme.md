@@ -54,3 +54,4 @@
 | 400          | [Nth Digit](https://leetcode.com/problems/nth-digit/description/)                                                                                       | Medium     |
 | 442          | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)                                           | Medium     |
 | 405          | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)                                           | Easy       |
+| 367          | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                                                                 | Easy       |
