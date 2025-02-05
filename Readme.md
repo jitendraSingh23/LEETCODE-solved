@@ -56,3 +56,4 @@
 | 405          | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)                                           | Easy       |
 | 367          | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                                                                 | Easy       |
 | 279          | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                           | Medium     |
+| 258          | [Add Digits](https://leetcode.com/problems/add-digits/description/)                                                                                     | Easy       |
