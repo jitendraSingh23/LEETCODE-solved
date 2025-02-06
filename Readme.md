@@ -57,3 +57,4 @@
 | 367          | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                                                                 | Easy       |
 | 279          | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                           | Medium     |
 | 258          | [Add Digits](https://leetcode.com/problems/add-digits/description/)                                                                                     | Easy       |
+| 74           | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                                     | Medium     |
